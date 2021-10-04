@@ -2,10 +2,6 @@
     .row header{
       width: 1920px;
       height: 593px; 
-      padding-top: 257px; 
-      padding-bottom: 257px; 
-      padding-right: 816px; 
-      padding-left: 816px; 
     }
 }
 
@@ -16,6 +12,10 @@
     font-size: 80; 
 }
 
-header.demo{
+header{
     background-color: #0093FF;
+    padding-top: 257px; 
+      padding-bottom: 257px; 
+      padding-right: 816px; 
+      padding-left: 816px; 
 }
