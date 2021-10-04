@@ -7,7 +7,7 @@
 
 @media only screen and (min-width: 600px){
     .row header{
-      width: 1920px;
+      width: 1024px;
       height: 593px; 
     }
 }
@@ -19,6 +19,6 @@
     font-size: 80; 
 }
 
-header{
+header.demo{
     background-color: #0093FF;
 }
