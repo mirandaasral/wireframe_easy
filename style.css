@@ -11,6 +11,6 @@ p{
 
 .item1 {
     background-color: #0093FF; 
-    grid-area: header;
+    grid-column: 1/5;
 }
 
