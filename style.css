@@ -1,3 +1,10 @@
+.col-demo{
+    padding-top: 257px; 
+    padding-bottom: 257px; 
+    padding-right: 816px; 
+    padding-left: 816px; 
+}
+
 @media only screen and (min-width: 600px){
     .row header{
       width: 1920px;
@@ -14,8 +21,4 @@
 
 header{
     background-color: #0093FF;
-    padding-top: 257px; 
-      padding-bottom: 257px; 
-      padding-right: 816px; 
-      padding-left: 816px; 
 }
