@@ -5,6 +5,12 @@
     }
 }
 
+*{
+    font-family: Courier; 
+    color: white; 
+    text-align: center; 
+}
+
 header.demo{
     background-color: #0093FF;
 }
