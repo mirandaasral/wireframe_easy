@@ -41,4 +41,8 @@ p{
     grid-row: 9/13; 
 }
 
-
+.item6{
+    background-color: #EAAC21; 
+    grid-column: 1/5; 
+    grid-row: 13/17; 
+}
