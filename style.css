@@ -1,7 +1,6 @@
 .grid-container {
     display: grid; 
     grid-template-columns: 12; 
-    grid-template-rows: 21; 
 }
 
 p{
@@ -19,6 +18,7 @@ p{
 .item2 {
     background-color: #EAAC21;
     grid-column: 1/7; 
+    grid-row: 1/5; 
 }
 
 .item3{
