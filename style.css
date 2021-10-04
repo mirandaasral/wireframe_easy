@@ -11,6 +11,11 @@ p{
 
 .item1 {
     background-color: #0093FF; 
-    grid-column: 1/5;
+    grid-column: 1/4;
+}
+
+.item2 {
+    background-color: #EAAC21;
+    grid-column: 1/2; 
 }
 
