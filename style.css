@@ -6,12 +6,10 @@ p{
     text-align: center; 
 }
 
-.col-demo{
-    padding-top: 257px; 
-    padding-bottom: 257px; 
-    padding-right: 816px; 
-    padding-left: 816px; 
+.item1 {
+    background-color: #0093FF; 
 }
+
 
 @media only screen and (min-width: 600px){
     .row header{
@@ -23,10 +21,5 @@ p{
 *{
     font-family: Courier; 
     color: white; 
-    text-align: center; 
     font-size: 80; 
-}
-
-header.demo{
-    background-color: #0093FF;
 }
