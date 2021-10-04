@@ -35,4 +35,10 @@ p{
     grid-row: 9/13; 
 }
 
+.item5{
+    background-color: #0093FF; 
+    grid-column: 10/13; 
+    grid-row: 9/13; 
+}
+
 
