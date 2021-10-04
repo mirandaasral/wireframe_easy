@@ -1,3 +1,9 @@
+.demo{
+    font-size: 80; 
+    font-family: "Courier"; 
+    color: white; 
+}
+
 header.demo{
     background-color: #0093FF;
     width: 1920px; 
