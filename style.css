@@ -2,7 +2,10 @@
     .row header{
       width: 1920px;
       height: 593px; 
-      margin-top: 257px; 
+      padding-top: 257px; 
+      padding-bottom: 257px; 
+      padding-right: 816px; 
+      padding-left: 816px; 
     }
 }
 
