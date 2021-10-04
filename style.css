@@ -1,11 +1,10 @@
-.container{
-    font-size: 80; 
-    font-family: "Courier"; 
-    color: white; 
+@media only screen and (min-width: 600px){
+    .row header{
+      width: 1920;
+      height: 593; 
+    }
 }
 
 header.demo{
     background-color: #0093FF;
-    width: 1920px; 
-    height: 593px; 
 }
