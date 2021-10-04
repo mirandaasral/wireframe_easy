@@ -1,25 +1,16 @@
 .grid-container {
     display: grid; 
+    grid-template-columns: auto auto auto auto; 
 }
 
 p{
     text-align: center; 
+    font-family: Courier; 
+    color: white; 
 }
 
 .item1 {
     background-color: #0093FF; 
+    grid-area: header;
 }
 
-
-@media only screen and (min-width: 600px){
-    .row header{
-      width: 1024px;
-      height: 593px; 
-    }
-}
-
-*{
-    font-family: Courier; 
-    color: white; 
-    font-size: 80; 
-}
