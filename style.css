@@ -1,3 +1,11 @@
+.grid-container {
+    display: grid; 
+}
+
+p{
+    text-align: center; 
+}
+
 .col-demo{
     padding-top: 257px; 
     padding-bottom: 257px; 
