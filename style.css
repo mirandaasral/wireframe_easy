@@ -9,67 +9,75 @@ p{
     text-align: center; 
     font-family: Courier; 
     color: white; 
-    font-size: 80; 
 }
 
 .item1 {
     background-color: #0093FF; 
     grid-column: 1/13;
     grid-row: 1/5; 
+    padding: 2em; 
 }
 
 .item2 {
     background-color: #EAAC21;
     grid-column: 1/7; 
     grid-row: 5/9; 
+    padding: 2em; 
 }
 
 .item3{
     background-color: #FFE200;
     grid-column: 7/13; 
     grid-row: 5/9; 
+    padding: 2em; 
 }
 
 .item4{
     background-color: #65BCB5; 
     grid-column: 1/10; 
     grid-row: 9/13; 
+    padding: 2em; 
 }
 
 .item5{
     background-color: #0093FF; 
     grid-column: 10/13; 
     grid-row: 9/13; 
+    padding: 2em; 
 }
 
 .item6{
     background-color: #EAAC21; 
     grid-column: 1/5; 
     grid-row: 13/17; 
+    padding: 2em; 
 }
 
 .item7{
     background-color: #FFE200; 
     grid-column: 5/9; 
     grid-row: 13/17; 
+    padding: 2em; 
 }
 
 .item8{
     background-color: #EAAC21; 
     grid-column: 9/13; 
     grid-row: 13/17; 
+    padding: 2em; 
 }
 
 .item9{
     background-color: #65BCB5; 
     grid-column: 1/13; 
     grid-row: 17/21; 
+    padding: 2em; 
 }
 
 .item10{
     background-color: #0093FF; 
     grid-column: 1/13; 
-    grid-row: 21/22; 
+    padding: 2em; 
 }
 
 
