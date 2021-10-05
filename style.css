@@ -65,7 +65,11 @@ p{
     grid-row: 17/21; 
 }
 
-
+.item10{
+    background-color: #0093FF; 
+    grid-column: 1/13; 
+    grid-row: 21/22; 
+}
 
 
 
